@@ -1,5 +1,5 @@
 DOMAIN = "sb_music"
-DEFAULT_NAME = "SB'Music"
+DEFAULT_NAME = "SB Music"
 CONF_HOST = "host"
 CONF_EMAIL = "email"
 CONF_PASSWORD = "password"
