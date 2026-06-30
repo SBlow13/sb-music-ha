@@ -4,6 +4,15 @@ Contrôlez votre instance [SB'Music](https://github.com/SB-Music/SB-Music) depui
 
 ## Installation
 
+### Via HACS (recommandé)
+[![Ouvrir votre instance Home Assistant et ajouter ce dépôt au Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=SBlow13&repository=sb-music-ha&category=integration)
+
+Cliquez sur le badge ci-dessus, ou ajoutez manuellement ce dépôt dans HACS :
+1. HACS → Intégrations → 3 points → Dépôts personnalisés
+2. URL : `https://github.com/SBlow13/sb-music-ha`
+3. Catégorie : Intégration
+
+### Manuel
 1. Copiez le dossier `custom_components/sb_music` dans le dossier `custom_components` de votre instance Home Assistant
 2. Redémarrez Home Assistant
 3. Allez dans **Paramètres → Appareils et services → Ajouter une intégration**
