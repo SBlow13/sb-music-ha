@@ -1,0 +1,10 @@
+DOMAIN = "sb_music"
+DEFAULT_NAME = "SB'Music"
+CONF_HOST = "host"
+CONF_EMAIL = "email"
+CONF_PASSWORD = "password"
+CONF_DEVICE_ID = "device_id"
+
+API_LOGIN = "/api/auth/token"
+API_DEVICES = "/api/devices"
+API_DEVICE_COMMAND = "/api/devices/{}/command"
