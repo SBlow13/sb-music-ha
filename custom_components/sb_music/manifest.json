@@ -1,13 +1,13 @@
 {
   "domain": "sb_music",
-  "name": "SB'Music",
+  "name": "SB Music",
   "codeowners": ["@SBlow13"],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/SB-Music/SB-Music",
+  "documentation": "https://github.com/SBlow13/sb-music-ha",
   "integration_type": "entity",
   "iot_class": "local_polling",
   "issue_tracker": "https://github.com/SBlow13/sb-music-ha/issues",
   "requirements": [],
-  "version": "1.0.2"
+  "version": "1.0.3"
 }

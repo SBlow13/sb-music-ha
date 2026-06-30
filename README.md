@@ -1,4 +1,4 @@
-# SB'Music — Home Assistant Custom Component
+# SB Music — Home Assistant Custom Component
 
 Contrôlez votre instance [SB'Music](https://github.com/SB-Music/SB-Music) depuis Home Assistant.
 
@@ -16,7 +16,7 @@ Cliquez sur le badge ci-dessus, ou ajoutez manuellement ce dépôt dans HACS :
 1. Copiez le dossier `custom_components/sb_music` dans le dossier `custom_components` de votre instance Home Assistant
 2. Redémarrez Home Assistant
 3. Allez dans **Paramètres → Appareils et services → Ajouter une intégration**
-4. Recherchez **SB'Music** et cliquez dessus
+4. Recherchez **SB Music** et cliquez dessus
 5. Renseignez :
    - **URL du serveur** (ex: `http://192.168.1.100:3000`)
    - **Email** de votre compte SB'Music

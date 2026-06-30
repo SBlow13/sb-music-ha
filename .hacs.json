@@ -1,8 +1,5 @@
 {
-  "name": "SB'Music",
+  "name": "SB Music",
   "content_in_root": false,
-  "render_readme": true,
-  "domains": ["sb_music"],
-  "iot_class": "local_polling",
   "homeassistant": "2023.12.0"
 }
